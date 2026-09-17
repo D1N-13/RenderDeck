@@ -1,10 +1,8 @@
 | | |
 |:---:|:---:|
-| <img width="1500" height="1500" alt="00_Eng" src="https://github.com/user-attachments/assets/9132dce9-7402-4e85-9380-c0c1318f134d" /> | <img width="1500" height="1500" alt="01" src="https://github.com/user-attachments/assets/8dd3b349-c7a9-4873-86db-cf3b380d5980" /> |
-| <img width="1500" height="1500" alt="02_Eng" src="https://github.com/user-attachments/assets/19d37ba0-7563-4fb6-bfde-dfaf6b01a3f2" /> | <img width="1500" height="1500" alt="03" src="https://github.com/user-attachments/assets/06593cf3-ddcc-41ce-8df5-7b9f499868e0" /> |
-| <img width="1500" height="1500" alt="04" src="https://github.com/user-attachments/assets/a9318a07-b8ec-4cb3-9184-9df477c31d9d" /> | <img width="1500" height="1500" alt="05_Eng" src="https://github.com/user-attachments/assets/451082c6-82b1-46f1-958c-09d1599b29a4" /> |
-
-
+| <img width="1500" height="1500" alt="00_Eng" src="https://github.com/user-attachments/assets/e3b9e3c4-fe07-41ef-b50e-809f360e2da0" /> | <img width="1500" height="1500" alt="01" src="https://github.com/user-attachments/assets/7e0858b5-dd90-49d5-950e-72233dd52679" />|
+| <img width="1500" height="1500" alt="02_Eng" src="https://github.com/user-attachments/assets/fd6f8b08-c479-48f1-951d-3c276fbc45f2" /> | <img width="1500" height="1500" alt="03" src="https://github.com/user-attachments/assets/1e2204de-aff5-4b3d-a80e-2b729562fcb7" />|
+| <img width="1500" height="1500" alt="04" src="https://github.com/user-attachments/assets/9b53f67f-91d3-41a7-93a9-b3dbd2b9c2b1" /> | <img width="1500" height="1500" alt="05_Eng" src="https://github.com/user-attachments/assets/10f7d42e-34b5-4b5f-bab2-810648f0c171" />|
 
 # RenderDeck
 An add-on designed for quick scene preparation for rendering and convenient setup management. It saves time and flexibly adapts to any project.
@@ -13,6 +11,7 @@ First and foremost: with just one click in RenderDeck, you can collect all the c
 
 > [!TIP]
 > **_The free version includes a 10-minute session with all features unlocked to let you test the full workflow (session resets when 3ds Max restarts)._**
+> [RenderDeck_1_0_2_FREE.zip](https://github.com/user-attachments/files/32358036/RenderDeck_1_0_2_FREE.zip)
 
 **Main features:**
 
