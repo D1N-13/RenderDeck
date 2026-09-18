@@ -1,8 +1,8 @@
 | | |
 |:---:|:---:|
-| <img width="1500" height="1500" alt="00_Eng" src="https://github.com/user-attachments/assets/e3b9e3c4-fe07-41ef-b50e-809f360e2da0" /> | <img width="1500" height="1500" alt="01" src="https://github.com/user-attachments/assets/7e0858b5-dd90-49d5-950e-72233dd52679" />|
-| <img width="1500" height="1500" alt="02_Eng" src="https://github.com/user-attachments/assets/fd6f8b08-c479-48f1-951d-3c276fbc45f2" /> | <img width="1500" height="1500" alt="03" src="https://github.com/user-attachments/assets/1e2204de-aff5-4b3d-a80e-2b729562fcb7" />|
-| <img width="1500" height="1500" alt="04" src="https://github.com/user-attachments/assets/9b53f67f-91d3-41a7-93a9-b3dbd2b9c2b1" /> | <img width="1500" height="1500" alt="05_Eng" src="https://github.com/user-attachments/assets/10f7d42e-34b5-4b5f-bab2-810648f0c171" />|
+| <img width="1500" height="1500" alt="00_Eng" src="https://github.com/user-attachments/assets/c15caf4c-451a-42cb-8ecb-d30717fa893a" /> | <img width="1500" height="1500" alt="01" src="https://github.com/user-attachments/assets/0c745784-1cd9-45be-b90d-72b438e3025e" />|
+| <img width="1500" height="1500" alt="02_Eng" src="https://github.com/user-attachments/assets/60b5d39d-8080-4119-854d-6b09a387a784" /> | <img width="1500" height="1500" alt="03" src="https://github.com/user-attachments/assets/6212e96e-9740-425b-a166-415fe4fda7bc" />|
+| <img width="1500" height="1500" alt="04" src="https://github.com/user-attachments/assets/b4986f66-b6c9-4861-8eb9-47ecdff120a9" /> | <img width="1500" height="1500" alt="05_Eng" src="https://github.com/user-attachments/assets/5dff1fce-a96f-4888-8503-ad350ec46dfb" />|
 
 # RenderDeck
 An add-on designed for quick scene preparation for rendering and convenient setup management. It saves time and flexibly adapts to any project.
@@ -11,7 +11,8 @@ First and foremost: with just one click in RenderDeck, you can collect all the c
 
 > [!TIP]
 > **_The free version includes a 10-minute session with all features unlocked to let you test the full workflow (session resets when 3ds Max restarts)._**
-> [RenderDeck_1_0_2_FREE.zip](https://github.com/user-attachments/files/32358036/RenderDeck_1_0_2_FREE.zip)
+> [RenderDeck_1_0_3_FREE.zip](https://github.com/user-attachments/files/32399626/RenderDeck_1_0_3_FREE.zip)
+
 
 **Main features:**
 
